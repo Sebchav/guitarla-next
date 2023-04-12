@@ -10,7 +10,6 @@ export default function Home() {
       >
           <h1>Hola Mundo en Next</h1>
 
-          <Link href="/nosotros">Nosotros</Link>
       </Layout>
     </>
     

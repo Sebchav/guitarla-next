@@ -1,4 +1,3 @@
-import Link from "next/link"
 import Layout from "@/components/layout"
 
 export default function Nosotros() {
@@ -7,9 +6,8 @@ export default function Nosotros() {
         title={"Nosotros"}
         description="Sobre nosotros, guitarLA, tienda de música"
     >
-        <div>Desde nosotros.js</div>
-
-        <Link href="/">Inicio</Link>
+    
+    <h1>Nosotros</h1>
     </Layout>
     
   )
